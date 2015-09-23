@@ -1,0 +1,1 @@
+This is a template for a top-beer sorter.  It is based off the BeerAdvocate Top 250 Beer List from late 2013, with some conditional formatting and ability to filter on certain columns to target specific beers (by state available, season sold, etc).
